@@ -5,11 +5,11 @@ They include handy projects such as:
 * bone fracture detection
 * hand gesture localization and classification
 * text classification using various methods
-* Face Recognition using few shot learning
+* Face Recognition using fewshot learning
 * image inpainting using GAN
-* image denoising using auto encoders
+* image denoising using autoencoders
 * audio classification
-* licence plate recognition
+* licence-plate recognition
 * etc.
 
 

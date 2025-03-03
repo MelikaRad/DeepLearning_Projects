@@ -100,6 +100,6 @@ In case you preferred to run the project from its `docker container`, read the f
    `docker run -p 8000:8000 audio-classification-app` 
 
 3. **Test API**:  
-   * Use Postman or a similar tool (we used postman) to send a POST request to http://localhost:8000/classify\_audio/ with an audio file attached.  
+   * Use Postman or a similar tool (we used postman) to send a POST request to `http://localhost:8000/classify_audio/` with an audio file attached.  
    * The API will return the predicted class of the audio.
 

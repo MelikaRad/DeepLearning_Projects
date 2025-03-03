@@ -75,10 +75,10 @@ Accepts an audio file from the user and triggers the classification process.
 3. In the "Body" tab, select "form-data"  
 4. Add a key named "file" and set its type to "File"  
 5. Upload an audio file saying a digit in farsi  
-6. Send the request and view the response containing the class of the audio (digit being said)
+6. Send the request and view the response containing the class of the audio (digit being said)  
 
-![Postman_test](Postman_test.png)
-
+![Postman_test](Postman_test.png)  
+  
 
 In case you preferred to run the project from its `docker container`, read the following:
 

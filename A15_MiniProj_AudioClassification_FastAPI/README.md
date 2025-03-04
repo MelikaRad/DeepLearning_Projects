@@ -35,7 +35,7 @@ The project consists of these main parts:
 ### **Installation**
 
 1. Navigate to the project directory on your system: (bash)  
-   `cd [location]/A15_MiniProj_AudioClassification_FastAPI/Project`  
+   `cd [location]/A15_FinalProj_AudioClassification_FastAPI/Project`  
 2. Create and activate a virtual environment:  (bash)  
    `python -m virtualenv venv`  
    `` source venv/bin/activate  # On Windows, use `venv\Scripts\activate` ``  

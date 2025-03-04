@@ -33,7 +33,7 @@ This project implements a license plate recognition system using FastAPI. The sy
 ### **Installation**
 
 1. Navigate to the project directory on your system: (bash)  
-   `cd [location]/A15_MiniProj_LicensePlateRecognition_FastAPI/Project`  
+   `cd [location]/A15_FinalProj_LicensePlateRecognition_FastAPI/Project`  
 2. Create and activate a virtual environment:  (bash)  
    `python -m virtualenv venv`  
    `` source venv/bin/activate  # On Windows, use `venv\Scripts\activate` ``  

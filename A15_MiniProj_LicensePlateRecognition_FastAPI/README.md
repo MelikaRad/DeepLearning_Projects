@@ -98,4 +98,13 @@ If you encounter issues:
 * Ensure the model files are in the correct location  
 * Check the FastAPI logs for any error messages
 
-For more details, you can check the Related\_Notebooks directory, which includes some of the notebooks related to the process of training and testing models.
+For more details, you can check the Related\_Notebooks directory, which includes some of the notebooks related to the process of training and testing models.   
+* `1_Playing_around_the_dataset.ipynb` : played around the 1000-YoloDataset which has some images for plate detection.  
+* `2_Training_a_Model_for_Plate_Detection_with_Keypoints.ipynb` : trained a yolov8n-pose model to detect plates and their keypoints.   
+* `3_Training_a_Model_for_Plate_Recognition.ipynb` : trained a cnn model on iclp-part1 dataset for recognition task.  
+* `4_Testing_models_on_a_few_images.ipynb` :  used both of the models for a plate detection and recognition task on a few images. defined a function for this task.   
+  
+You can observe some of the results in the 4th notebook:  
+![result1](recognition_test1.jpg)  
+![result2](recognition_test.jpg)  
+

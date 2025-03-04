@@ -95,7 +95,7 @@ In case you preferred to run the project from its `docker container`, read the f
 
    `docker build -t audio-classification-app .`
 
-2. **`Run Docker Container`**`:`
+2. **Run Docker Container**:
 
    `docker run -p 8000:8000 audio-classification-app` 
 

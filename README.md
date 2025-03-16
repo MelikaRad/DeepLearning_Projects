@@ -1,7 +1,7 @@
 # Deep Learning Assignment Projects
 My assignment projects for the ClassVison's AI course with focus on Keras &amp; Tensorflow.
   
-They include handy projects such as:
+This repo featurs handy projects such as:
 * bone fracture detection
 * hand gesture localization and classification
 * text classification using various methods

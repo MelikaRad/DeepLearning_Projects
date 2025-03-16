@@ -9,7 +9,7 @@ They include handy projects such as:
 * image inpainting using GAN
 * image denoising using autoencoders
 * audio classification
-* licence-plate recognition
+* persian licence-plate recognition
 * etc.
 
 

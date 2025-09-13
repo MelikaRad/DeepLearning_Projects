@@ -1,5 +1,5 @@
-# Deep Learning Assignment Projects
-My assignment projects for the ClassVison's AI course with focus on Keras &amp; Tensorflow.
+# Deep Learning Projects
+My projects for the ClassVison's AI course with focus on Keras &amp; Tensorflow.
   
 This repo features handy projects such as:
 * bone fracture detection
@@ -14,3 +14,4 @@ This repo features handy projects such as:
 
 
 ![My Photo](overview.png)
+
